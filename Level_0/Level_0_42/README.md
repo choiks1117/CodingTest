@@ -1,4 +1,4 @@
-- 약수 구하기
+## 약수 구하기
 - darklight
 
 - sublimevimemacs
