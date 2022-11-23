@@ -1,9 +1,6 @@
-- 콜라츠 추측
-- darklight
+## 콜라츠 추측
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

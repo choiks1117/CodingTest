@@ -1,9 +1,6 @@
-- x만큼 간격이 있는 n개의 숫자
-- darklight
+## x만큼 간격이 있는 n개의 숫자
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

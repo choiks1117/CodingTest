@@ -1,9 +1,6 @@
-- 머지가 1이 되는 수 찾기
-- darklight
+## 머지가 1이 되는 수 찾기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

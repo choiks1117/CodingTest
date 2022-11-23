@@ -1,9 +1,6 @@
-- 정수 제곱근 판별
-- darklight
+## 정수 제곱근 판별
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

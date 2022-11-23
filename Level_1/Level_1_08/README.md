@@ -1,9 +1,4 @@
-- 문자열을 정수로 바꾸기
-- darklight
-
-- sublimevimemacs
-
-- Java 
+## 문자열을 정수로 바꾸기
 
 ###### 문제 설명
 

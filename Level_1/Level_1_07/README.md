@@ -1,9 +1,6 @@
-- 문자열 내 p와 y의 개수
-- darklight
+## 문자열 내 p와 y의 개수
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

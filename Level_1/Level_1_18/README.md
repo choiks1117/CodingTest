@@ -1,9 +1,6 @@
-- 제일 작은 수 제거하기
-- darklight
+## 제일 작은 수 제거하기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

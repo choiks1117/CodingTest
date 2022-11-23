@@ -1,9 +1,6 @@
-- 약수의 합
-- darklight
+## 약수의 합
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

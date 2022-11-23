@@ -1,9 +1,6 @@
-- 두 정수 사이의 합
-- darklight
+## 두 정수 사이의 합
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

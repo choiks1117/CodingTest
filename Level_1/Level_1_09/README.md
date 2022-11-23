@@ -1,9 +1,6 @@
-- 하샤드 수
-- darklight
+## 하샤드 수
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

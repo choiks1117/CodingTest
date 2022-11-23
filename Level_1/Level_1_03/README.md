@@ -1,9 +1,6 @@
-- 평균 구하기
-- darklight
+## 평균 구하기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

@@ -1,9 +1,6 @@
-- 자연수 뒤집어 배열로 만들기
-- darklight
+## 자연수 뒤집어 배열로 만들기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

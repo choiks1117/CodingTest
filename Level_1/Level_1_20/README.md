@@ -1,9 +1,6 @@
-- 없는 숫자 더하기
-- darklight
+## 없는 숫자 더하기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

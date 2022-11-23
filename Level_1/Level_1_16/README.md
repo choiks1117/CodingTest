@@ -1,9 +1,6 @@
-- 핸드폰 번호 가리기
-- darklight
+## 핸드폰 번호 가리기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

@@ -1,9 +1,6 @@
-- 자릿수 더하기
-- darklight
+## 자릿수 더하기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

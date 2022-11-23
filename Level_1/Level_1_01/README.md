@@ -1,9 +1,6 @@
-- 짝수와 홀수
-- darklight
+## 짝수와 홀수
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

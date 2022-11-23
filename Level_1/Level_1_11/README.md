@@ -1,9 +1,6 @@
-- 정수 내림차순으로 배치하기
-- darklight
+## 정수 내림차순으로 배치하기
 
-- sublimevimemacs
 
-- Java 
 
 ###### 문제 설명
 

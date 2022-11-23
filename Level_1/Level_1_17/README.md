@@ -1,9 +1,4 @@
-- 나누어 떨어지는 숫자 배열
-- darklight
-
-- sublimevimemacs
-
-- Java 
+## 나누어 떨어지는 숫자 배열
 
 ###### 문제 설명
 
